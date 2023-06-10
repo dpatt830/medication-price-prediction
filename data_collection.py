@@ -78,5 +78,12 @@ for href in href_list:
 # we will later add onto the dataframe
 df = pd.DataFrame(drug_info, columns=['Drug Rank', 'Drug Name', 'Total Prescriptions'])
 
+# since csv has 51 rows, the 1st is an empty one but will fix that later
+# adding in a random integer to the drug price list so lengths match
+drug_prices.insert(0,1)
+
+# adding the drug price list to the df
+df['Average Drug Price Per Prescription'] = drug_prices
+
 # creating a csv of our df
 df.to_csv('Drug_Information.csv')

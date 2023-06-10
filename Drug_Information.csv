@@ -1,52 +1,52 @@
-,Drug Rank,Drug Name,Total Prescriptions
-0,,,
-1,1,Atorvastatin,"114,509,814"
-2,2,Levothyroxine,"98,970,640"
-3,3,Metformin,"92,591,486"
-4,4,Lisinopril,"88,597,017"
-5,5,Amlodipine,"69,786,684"
-6,6,Metoprolol,"66,413,692"
-7,7,Albuterol,"61,948,347"
-8,8,Omeprazole,"56,300,064"
-9,9,Losartan,"54,815,411"
-10,10,Gabapentin,"49,961,066"
-11,11,Hydrochlorothiazide,"41,476,098"
-12,12,Sertraline,"38,219,814"
-13,13,Simvastatin,"36,600,871"
-14,14,Montelukast,"31,984,479"
-15,15,Escitalopram,"30,605,646"
-16,16,Acetaminophen; Hydrocodone,"30,100,356"
-17,17,Rosuvastatin,"29,750,488"
-18,18,Bupropion,"28,889,368"
-19,19,Furosemide,"26,786,296"
-20,20,Pantoprazole,"26,604,040"
-21,21,Trazodone,"26,210,731"
-22,22,Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate,"26,080,151"
-23,23,Fluticasone,"24,777,490"
-24,24,Tamsulosin,"24,692,402"
-25,25,Fluoxetine,"23,403,050"
-26,26,Carvedilol,"23,159,628"
-27,27,Duloxetine,"22,546,920"
-28,28,Meloxicam,"19,808,581"
-29,29,Clopidogrel,"19,377,527"
-30,30,Prednisone,"19,044,926"
-31,31,Citalopram,"18,549,176"
-32,32,Insulin Glargine,"17,973,209"
-33,33,Potassium Chloride,"17,811,732"
-34,34,Pravastatin,"17,549,151"
-35,35,Tramadol,"17,475,419"
-36,36,Aspirin,"17,287,372"
-37,37,Alprazolam,"16,780,805"
-38,38,Ibuprofen,"16,533,209"
-39,39,Cyclobenzaprine,"16,151,696"
-40,40,Amoxicillin,"15,922,907"
-41,41,Methylphenidate,"15,449,350"
-42,42,Allopurinol,"15,303,283"
-43,43,Venlafaxine,"15,022,423"
-44,44,Clonazepam,"14,758,212"
-45,45,Ethinyl Estradiol; Norethindrone,"14,716,809"
-46,46,Ergocalciferol,"14,670,983"
-47,47,Zolpidem,"14,272,253"
-48,48,Apixaban,"13,918,650"
-49,49,Glipizide,"13,674,142"
-50,50,Hydrochlorothiazide; Lisinopril,"13,559,563"
+,Drug Rank,Drug Name,Total Prescriptions,Average Drug Price Per Prescription
+0,,,,1.0
+1,1,Atorvastatin,"114,509,814",15.67
+2,2,Levothyroxine,"98,970,640",25.95
+3,3,Metformin,"92,591,486",11.07
+4,4,Lisinopril,"88,597,017",8.44
+5,5,Amlodipine,"69,786,684",8.67
+6,6,Metoprolol,"66,413,692",18.87
+7,7,Albuterol,"61,948,347",54.06
+8,8,Omeprazole,"56,300,064",16.18
+9,9,Losartan,"54,815,411",14.38
+10,10,Gabapentin,"49,961,066",50.89
+11,11,Hydrochlorothiazide,"41,476,098",7.76
+12,12,Sertraline,"38,219,814",13.68
+13,13,Simvastatin,"36,600,871",11.91
+14,14,Montelukast,"31,984,479",26.19
+15,15,Escitalopram,"30,605,646",18.73
+16,16,Acetaminophen; Hydrocodone,"30,100,356",23.14
+17,17,Rosuvastatin,"29,750,488",60.3
+18,18,Bupropion,"28,889,368",447.01
+19,19,Furosemide,"26,786,296",7.34
+20,20,Pantoprazole,"26,604,040",37.11
+21,21,Trazodone,"26,210,731",12.57
+22,22,Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate,"26,080,151",90.03
+23,23,Fluticasone,"24,777,490",94.27
+24,24,Tamsulosin,"24,692,402",54.4
+25,25,Fluoxetine,"23,403,050",27.94
+26,26,Carvedilol,"23,159,628",13.04
+27,27,Duloxetine,"22,546,920",28.18
+28,28,Meloxicam,"19,808,581",8.37
+29,29,Clopidogrel,"19,377,527",18.39
+30,30,Prednisone,"19,044,926",10.7
+31,31,Citalopram,"18,549,176",8.12
+32,32,Insulin Glargine,"17,973,209",486.52
+33,33,Potassium Chloride,"17,811,732",42.0
+34,34,Pravastatin,"17,549,151",19.91
+35,35,Tramadol,"17,475,419",13.27
+36,36,Aspirin,"17,287,372",4.54
+37,37,Alprazolam,"16,780,805",11.71
+38,38,Ibuprofen,"16,533,209",10.07
+39,39,Cyclobenzaprine,"16,151,696",15.29
+40,40,Amoxicillin,"15,922,907",9.75
+41,41,Methylphenidate,"15,449,350",212.02
+42,42,Allopurinol,"15,303,283",18.03
+43,43,Venlafaxine,"15,022,423",92.15
+44,44,Clonazepam,"14,758,212",12.08
+45,45,Ethinyl Estradiol; Norethindrone,"14,716,809",80.9
+46,46,Ergocalciferol,"14,670,983",12.1
+47,47,Zolpidem,"14,272,253",16.99
+48,48,Apixaban,"13,918,650",740.02
+49,49,Glipizide,"13,674,142",11.87
+50,50,Hydrochlorothiazide; Lisinopril,"13,559,563",10.69
