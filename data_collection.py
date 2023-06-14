@@ -23,9 +23,11 @@ tr_tags = doc.find_all('tr')[:51]
 for items in tr_tags:
     tds = items.find_all('td')
 
-    # list will include additional info we do not need so only keep first 3 items
+    # list will include additional info we do not need so only keep first 4 items
     td_texts = [td.text for td in tds]
-    td_texts = td_texts[:3]
+    td_texts = td_texts[:4]
+
+    # adding this info to the list
     drug_info.append(td_texts)
 
     # going through each a tag to get the href
@@ -37,8 +39,6 @@ for items in tr_tags:
 
         # appending hrefs to list
         href_list.append(href)
-
-    
 
 def cost(href):
     # Function to scrape average costs of specific drugs given their href
@@ -69,6 +69,31 @@ def cost(href):
             break
     return price
 
+# now we will scrape each Established Pharmacologic Class (EPC)
+# type/function of medication
+def EPC(href):
+    # creating an empty list to store drug classification
+    epc = []
+
+    # findint teh table in which the classification is held in 
+    tr_tags = doc.find_all('table')[-1]
+
+    # finding the a tag the string is held in
+    for items in tr_tags:
+        a_tags = items.find('a')
+
+        
+        # adding all elements in the a tag to the list
+        epc.append(a_tags)
+
+    # only keeping the string   
+    epc = epc[1].text
+    
+    return lsi
+
+    
+
+
 for href in href_list:
 
     # appending to our main drug list, a list of drug details
@@ -76,7 +101,7 @@ for href in href_list:
 
 # creating a dataframe from our td_text list
 # we will later add onto the dataframe
-df = pd.DataFrame(drug_info, columns=['Drug Rank', 'Drug Name', 'Total Prescriptions'])
+df = pd.DataFrame(drug_info, columns=['Drug Rank', 'Drug Name', 'Total Prescriptions', 'Total Patients'])
 
 # since csv has 51 rows, the 1st is an empty one but will fix that later
 # adding in a random integer to the drug price list so lengths match
