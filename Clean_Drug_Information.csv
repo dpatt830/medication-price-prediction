@@ -1,0 +1,51 @@
+,Unnamed: 0,Drug Rank,Drug Name,Total Prescriptions,Total Patients,Average Drug Price Per Prescription,Drug Class
+1,1,1.0,Atorvastatin,114509814.0,26640141.0,15.67,HMG-CoA Reductase Inhibitor
+2,2,2.0,Levothyroxine,98970640.0,20225373.0,25.95,l-Thyroxine
+3,3,3.0,Metformin,92591486.0,20122987.0,11.07,Biguanide
+4,4,4.0,Lisinopril,88597017.0,19816361.0,8.44,Angiotensin Converting Enzyme Inhibitor
+5,5,5.0,Amlodipine,69786684.0,16799810.0,8.67,Dihydropyridine Calcium Channel Blocker
+6,6,6.0,Metoprolol,66413692.0,15007908.0,18.87,beta-Adrenergic Blocker
+7,7,7.0,Albuterol,61948347.0,17902020.0,54.06,beta2-Adrenergic Agonist
+8,8,8.0,Omeprazole,56300064.0,13879629.0,16.18,Proton Pump Inhibitor
+9,9,9.0,Losartan,54815411.0,12690563.0,14.38,Angiotensin 2 Receptor Blocker
+10,10,10.0,Gabapentin,49961066.0,10571700.0,50.89,Anti-epileptic Agent
+11,11,11.0,Hydrochlorothiazide,41476098.0,10031904.0,7.76,Thiazide Diuretic
+12,12,12.0,Sertraline,38219814.0,7768366.0,13.68,Serotonin Reuptake Inhibitor
+13,13,13.0,Simvastatin,36600871.0,8557525.0,11.91,HMG-CoA Reductase Inhibitor
+14,14,14.0,Montelukast,31984479.0,7227021.0,26.19,Leukotriene Receptor Antagonist
+15,15,15.0,Escitalopram,30605646.0,6342599.0,18.73,Serotonin Reuptake Inhibitor
+16,16,16.0,Acetaminophen; Hydrocodone,30100356.0,8587152.0,23.14,Opioid Agonist
+17,17,17.0,Rosuvastatin,29750488.0,7393686.0,60.3,HMG-CoA Reductase Inhibitor
+18,18,18.0,Bupropion,28889368.0,5801282.0,447.01,Aminoketone
+19,19,19.0,Furosemide,26786296.0,6405654.0,7.34,Loop Diuretic
+20,20,20.0,Pantoprazole,26604040.0,6814036.0,37.11,Proton Pump Inhibitor
+21,21,21.0,Trazodone,26210731.0,5294364.0,12.57,Serotonin Reuptake Inhibitor
+22,22,22.0,Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate,26080151.0,3633541.0,90.03,Central Nervous System Stimulant
+23,23,23.0,Fluticasone,24777490.0,7805740.0,94.27,Corticosteroid
+24,24,24.0,Tamsulosin,24692402.0,5856108.0,54.4,alpha-Adrenergic Blocker
+25,25,25.0,Fluoxetine,23403050.0,4717183.0,27.94,Serotonin Reuptake Inhibitor
+26,26,26.0,Carvedilol,23159628.0,4948170.0,13.04,alpha-Adrenergic Blocker
+27,27,27.0,Duloxetine,22546920.0,4461604.0,28.18,Serotonin and Norepinephrine Reuptake Inhibitor
+28,28,28.0,Meloxicam,19808581.0,6057630.0,8.37,Nonsteroidal Anti-inflammatory Drug
+29,29,29.0,Clopidogrel,19377527.0,4340688.0,18.39,P2Y12 Platelet Inhibitor
+30,30,30.0,Prednisone,19044926.0,9203354.0,10.7,Corticosteroid
+31,31,31.0,Citalopram,18549176.0,3683842.0,8.12,Serotonin Reuptake Inhibitor
+32,32,32.0,Insulin Glargine,17973209.0,3662505.0,486.52,Insulin Analog
+33,33,33.0,Potassium Chloride,17811732.0,4637643.0,42.0,Potassium Salt
+34,34,34.0,Pravastatin,17549151.0,4132511.0,19.91,HMG-CoA Reductase Inhibitor
+35,35,35.0,Tramadol,17475419.0,4878951.0,13.27,Opioid Agonist
+36,36,36.0,Aspirin,17287372.0,4741732.0,4.54,Nonsteroidal Anti-inflammatory Drug
+37,37,37.0,Alprazolam,16780805.0,3632458.0,11.71,Benzodiazepine
+38,38,38.0,Ibuprofen,16533209.0,8896328.0,10.07,Nonsteroidal Anti-inflammatory Drug
+39,39,39.0,Cyclobenzaprine,16151696.0,5129829.0,15.29,Muscle Relaxant
+40,40,40.0,Amoxicillin,15922907.0,12780652.0,9.75,Penicillin-class Antibacterial
+41,41,41.0,Methylphenidate,15449350.0,2441634.0,212.02,Central Nervous System Stimulant
+42,42,42.0,Allopurinol,15303283.0,3606249.0,18.03,Xanthine Oxidase Inhibitor
+43,43,43.0,Venlafaxine,15022423.0,2863619.0,92.15,Serotonin and Norepinephrine Reuptake Inhibitor
+44,44,44.0,Clonazepam,14758212.0,2498126.0,12.08,Benzodiazepine
+45,45,45.0,Ethinyl Estradiol; Norethindrone,14716809.0,2955082.0,80.9,Estrogen
+46,46,46.0,Ergocalciferol,14670983.0,4448964.0,12.1,Provitamin D2 Compound
+47,47,47.0,Zolpidem,14272253.0,2592750.0,16.99,gamma-Aminobutyric Acid-ergic Agonist
+48,48,48.0,Apixaban,13918650.0,3305979.0,740.02,Factor Xa Inhibitor
+49,49,49.0,Glipizide,13674142.0,3383057.0,11.87,Sulfonylurea
+50,50,50.0,Hydrochlorothiazide; Lisinopril,13559563.0,2899536.0,10.69,Thiazide Diuretic

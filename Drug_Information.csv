@@ -1,52 +1,52 @@
-,Drug Rank,Drug Name,Total Prescriptions,Average Drug Price Per Prescription
-0,,,,1.0
-1,1,Atorvastatin,"114,509,814",15.67
-2,2,Levothyroxine,"98,970,640",25.95
-3,3,Metformin,"92,591,486",11.07
-4,4,Lisinopril,"88,597,017",8.44
-5,5,Amlodipine,"69,786,684",8.67
-6,6,Metoprolol,"66,413,692",18.87
-7,7,Albuterol,"61,948,347",54.06
-8,8,Omeprazole,"56,300,064",16.18
-9,9,Losartan,"54,815,411",14.38
-10,10,Gabapentin,"49,961,066",50.89
-11,11,Hydrochlorothiazide,"41,476,098",7.76
-12,12,Sertraline,"38,219,814",13.68
-13,13,Simvastatin,"36,600,871",11.91
-14,14,Montelukast,"31,984,479",26.19
-15,15,Escitalopram,"30,605,646",18.73
-16,16,Acetaminophen; Hydrocodone,"30,100,356",23.14
-17,17,Rosuvastatin,"29,750,488",60.3
-18,18,Bupropion,"28,889,368",447.01
-19,19,Furosemide,"26,786,296",7.34
-20,20,Pantoprazole,"26,604,040",37.11
-21,21,Trazodone,"26,210,731",12.57
-22,22,Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate,"26,080,151",90.03
-23,23,Fluticasone,"24,777,490",94.27
-24,24,Tamsulosin,"24,692,402",54.4
-25,25,Fluoxetine,"23,403,050",27.94
-26,26,Carvedilol,"23,159,628",13.04
-27,27,Duloxetine,"22,546,920",28.18
-28,28,Meloxicam,"19,808,581",8.37
-29,29,Clopidogrel,"19,377,527",18.39
-30,30,Prednisone,"19,044,926",10.7
-31,31,Citalopram,"18,549,176",8.12
-32,32,Insulin Glargine,"17,973,209",486.52
-33,33,Potassium Chloride,"17,811,732",42.0
-34,34,Pravastatin,"17,549,151",19.91
-35,35,Tramadol,"17,475,419",13.27
-36,36,Aspirin,"17,287,372",4.54
-37,37,Alprazolam,"16,780,805",11.71
-38,38,Ibuprofen,"16,533,209",10.07
-39,39,Cyclobenzaprine,"16,151,696",15.29
-40,40,Amoxicillin,"15,922,907",9.75
-41,41,Methylphenidate,"15,449,350",212.02
-42,42,Allopurinol,"15,303,283",18.03
-43,43,Venlafaxine,"15,022,423",92.15
-44,44,Clonazepam,"14,758,212",12.08
-45,45,Ethinyl Estradiol; Norethindrone,"14,716,809",80.9
-46,46,Ergocalciferol,"14,670,983",12.1
-47,47,Zolpidem,"14,272,253",16.99
-48,48,Apixaban,"13,918,650",740.02
-49,49,Glipizide,"13,674,142",11.87
-50,50,Hydrochlorothiazide; Lisinopril,"13,559,563",10.69
+,Drug Rank,Drug Name,Total Prescriptions,Total Patients,Average Drug Price Per Prescription,Drug Class
+0,,,,,1.0,1
+1,1,Atorvastatin,"114,509,814","26,640,141",15.67,HMG-CoA Reductase Inhibitor
+2,2,Levothyroxine,"98,970,640","20,225,373",25.95,l-Thyroxine
+3,3,Metformin,"92,591,486","20,122,987",11.07,Biguanide
+4,4,Lisinopril,"88,597,017","19,816,361",8.44,Angiotensin Converting Enzyme Inhibitor
+5,5,Amlodipine,"69,786,684","16,799,810",8.67,Dihydropyridine Calcium Channel Blocker
+6,6,Metoprolol,"66,413,692","15,007,908",18.87,beta-Adrenergic Blocker
+7,7,Albuterol,"61,948,347","17,902,020",54.06,beta2-Adrenergic Agonist
+8,8,Omeprazole,"56,300,064","13,879,629",16.18,Proton Pump Inhibitor
+9,9,Losartan,"54,815,411","12,690,563",14.38,Angiotensin 2 Receptor Blocker
+10,10,Gabapentin,"49,961,066","10,571,700",50.89,Anti-epileptic Agent
+11,11,Hydrochlorothiazide,"41,476,098","10,031,904",7.76,Thiazide Diuretic
+12,12,Sertraline,"38,219,814","7,768,366",13.68,Serotonin Reuptake Inhibitor
+13,13,Simvastatin,"36,600,871","8,557,525",11.91,HMG-CoA Reductase Inhibitor
+14,14,Montelukast,"31,984,479","7,227,021",26.19,Leukotriene Receptor Antagonist
+15,15,Escitalopram,"30,605,646","6,342,599",18.73,Serotonin Reuptake Inhibitor
+16,16,Acetaminophen; Hydrocodone,"30,100,356","8,587,152",23.14,Opioid Agonist
+17,17,Rosuvastatin,"29,750,488","7,393,686",60.3,HMG-CoA Reductase Inhibitor
+18,18,Bupropion,"28,889,368","5,801,282",447.01,Aminoketone
+19,19,Furosemide,"26,786,296","6,405,654",7.34,Loop Diuretic
+20,20,Pantoprazole,"26,604,040","6,814,036",37.11,Proton Pump Inhibitor
+21,21,Trazodone,"26,210,731","5,294,364",12.57,Serotonin Reuptake Inhibitor
+22,22,Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate,"26,080,151","3,633,541",90.03,Central Nervous System Stimulant
+23,23,Fluticasone,"24,777,490","7,805,740",94.27,Corticosteroid
+24,24,Tamsulosin,"24,692,402","5,856,108",54.4,alpha-Adrenergic Blocker
+25,25,Fluoxetine,"23,403,050","4,717,183",27.94,Serotonin Reuptake Inhibitor
+26,26,Carvedilol,"23,159,628","4,948,170",13.04,alpha-Adrenergic Blocker
+27,27,Duloxetine,"22,546,920","4,461,604",28.18,Serotonin and Norepinephrine Reuptake Inhibitor
+28,28,Meloxicam,"19,808,581","6,057,630",8.37,Nonsteroidal Anti-inflammatory Drug
+29,29,Clopidogrel,"19,377,527","4,340,688",18.39,P2Y12 Platelet Inhibitor
+30,30,Prednisone,"19,044,926","9,203,354",10.7,Corticosteroid
+31,31,Citalopram,"18,549,176","3,683,842",8.12,Serotonin Reuptake Inhibitor
+32,32,Insulin Glargine,"17,973,209","3,662,505",486.52,Insulin Analog
+33,33,Potassium Chloride,"17,811,732","4,637,643",42.0,Potassium Salt
+34,34,Pravastatin,"17,549,151","4,132,511",19.91,HMG-CoA Reductase Inhibitor
+35,35,Tramadol,"17,475,419","4,878,951",13.27,Opioid Agonist
+36,36,Aspirin,"17,287,372","4,741,732",4.54,Nonsteroidal Anti-inflammatory Drug
+37,37,Alprazolam,"16,780,805","3,632,458",11.71,Benzodiazepine
+38,38,Ibuprofen,"16,533,209","8,896,328",10.07,Nonsteroidal Anti-inflammatory Drug
+39,39,Cyclobenzaprine,"16,151,696","5,129,829",15.29,Muscle Relaxant
+40,40,Amoxicillin,"15,922,907","12,780,652",9.75,Penicillin-class Antibacterial
+41,41,Methylphenidate,"15,449,350","2,441,634",212.02,Central Nervous System Stimulant
+42,42,Allopurinol,"15,303,283","3,606,249",18.03,Xanthine Oxidase Inhibitor
+43,43,Venlafaxine,"15,022,423","2,863,619",92.15,Serotonin and Norepinephrine Reuptake Inhibitor
+44,44,Clonazepam,"14,758,212","2,498,126",12.08,Benzodiazepine
+45,45,Ethinyl Estradiol; Norethindrone,"14,716,809","2,955,082",80.9,Estrogen
+46,46,Ergocalciferol,"14,670,983","4,448,964",12.1,Provitamin D2 Compound
+47,47,Zolpidem,"14,272,253","2,592,750",16.99,gamma-Aminobutyric Acid-ergic Agonist
+48,48,Apixaban,"13,918,650","3,305,979",740.02,Factor Xa Inhibitor
+49,49,Glipizide,"13,674,142","3,383,057",11.87,Sulfonylurea
+50,50,Hydrochlorothiazide; Lisinopril,"13,559,563","2,899,536",10.69,Thiazide Diuretic

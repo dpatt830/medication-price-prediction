@@ -5,6 +5,7 @@ import pandas as pd
 # initializing an lists to store drug info
 drug_info = []
 drug_prices = []
+drug_class = []
 
 # initializing a list to store hrefs
 href_list = []
@@ -75,6 +76,11 @@ def EPC(href):
     # creating an empty list to store drug classification
     epc = []
 
+    # establishing the url, requests page, and html parser object
+    url = f'https://clincalc.com/DrugStats/{href}'
+    page = requests.get(url).text
+    doc = BeautifulSoup(page, "html.parser")
+
     # findint teh table in which the classification is held in 
     tr_tags = doc.find_all('table')[-1]
 
@@ -89,7 +95,7 @@ def EPC(href):
     # only keeping the string   
     epc = epc[1].text
     
-    return lsi
+    return epc
 
     
 
@@ -99,6 +105,9 @@ for href in href_list:
     # appending to our main drug list, a list of drug details
     drug_prices.append(cost(href))
 
+    # using the EPC function to add drug classes for each drug
+    drug_class.append(EPC(href)) 
+
 # creating a dataframe from our td_text list
 # we will later add onto the dataframe
 df = pd.DataFrame(drug_info, columns=['Drug Rank', 'Drug Name', 'Total Prescriptions', 'Total Patients'])
@@ -106,9 +115,13 @@ df = pd.DataFrame(drug_info, columns=['Drug Rank', 'Drug Name', 'Total Prescript
 # since csv has 51 rows, the 1st is an empty one but will fix that later
 # adding in a random integer to the drug price list so lengths match
 drug_prices.insert(0,1)
+drug_class.insert(0,1)
 
 # adding the drug price list to the df
 df['Average Drug Price Per Prescription'] = drug_prices
+
+# addign the drug classes lsit to the df as well
+df['Drug Class'] = drug_class
 
 # creating a csv of our df
 df.to_csv('Drug_Information.csv')
