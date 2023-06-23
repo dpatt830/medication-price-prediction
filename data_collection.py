@@ -11,13 +11,13 @@ drug_class = []
 href_list = []
 
 # establishing the url, requests page, and html parser object
-# looking at the top 50 most commonly prescribed drugs; scraping price info
+# looking at the top 200 most commonly prescribed drugs; scraping price info
 url = f"https://clincalc.com/DrugStats/Top300Drugs.aspx"
 page = requests.get(url).text
 doc = BeautifulSoup(page, "html.parser")
 
 # looking at the text box which inlcudes names of the drugs
-tr_tags = doc.find_all('tr')[:51]
+tr_tags = doc.find_all('tr')[:201]
 
 # scraping the content in the td tags, creating a list that has the rank, price, and total prescriptions of the drug
 # list example: ['drug rank', 'Name', 'total prescriptions']
@@ -92,8 +92,12 @@ def EPC(href):
         # adding all elements in the a tag to the list
         epc.append(a_tags)
 
-    # only keeping the string   
-    epc = epc[1].text
+    # some drug EPC is N/A so we will mark it as N/A if missing
+    if epc[1] == None:
+        epc1 = 'N/A'
+    else:    
+        # only keeping the string   
+        epc = epc[1].text
     
     return epc
 
@@ -111,6 +115,7 @@ for href in href_list:
 # creating a dataframe from our td_text list
 # we will later add onto the dataframe
 df = pd.DataFrame(drug_info, columns=['Drug Rank', 'Drug Name', 'Total Prescriptions', 'Total Patients'])
+
 
 # since csv has 51 rows, the 1st is an empty one but will fix that later
 # adding in a random integer to the drug price list so lengths match

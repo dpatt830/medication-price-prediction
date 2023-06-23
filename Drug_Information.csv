@@ -50,3 +50,153 @@
 48,48,Apixaban,"13,918,650","3,305,979",740.02,Factor Xa Inhibitor
 49,49,Glipizide,"13,674,142","3,383,057",11.87,Sulfonylurea
 50,50,Hydrochlorothiazide; Lisinopril,"13,559,563","2,899,536",10.69,Thiazide Diuretic
+51,51,Spironolactone,"13,354,566","3,131,156",15.79,Aldosterone Antagonist
+52,52,Cetirizine,"13,125,543","3,357,330",14.1,Histamine-1 Receptor Antagonist
+53,53,Atenolol,"12,860,512","3,143,500",10.0,beta-Adrenergic Blocker
+54,54,Oxycodone,"12,289,518","4,092,089",57.79,Opioid Agonist
+55,55,Buspirone,"11,820,023","2,562,053",20.9,"[-1, None, -1, None, -1, None, -1, None, -1]"
+56,56,Fluticasone; Salmeterol,"11,577,409","2,562,481",452.77,Corticosteroid
+57,57,Topiramate,"11,482,269","2,124,766",161.7,"[-1, None, -1, None, -1, None, -1, None, -1]"
+58,58,Warfarin,"11,467,999","2,424,821",17.53,Vitamin K Antagonist
+59,59,Estradiol,"11,307,655","3,131,982",79.61,Estrogen
+60,60,Cholecalciferol,"11,115,876","2,977,877",6.55,"[-1, None, -1, None, -1, None, -1, None, -1]"
+61,61,Budesonide; Formoterol,"11,114,689","2,348,352",374.51,Corticosteroid
+62,62,Lamotrigine,"10,801,628","1,713,712",68.92,Anti-epileptic Agent
+63,63,Ethinyl Estradiol; Norgestimate,"10,686,537","2,556,898",20.6,"[-1, None, -1, None, -1, None, -1, None, -1]"
+64,64,Quetiapine,"10,574,791","1,784,327",22.36,Atypical Antipsychotic
+65,65,Lorazepam,"10,559,374","2,492,279",13.45,Benzodiazepine
+66,66,Famotidine,"10,441,964","3,383,683",17.92,Histamine-2 Receptor Antagonist
+67,67,Folic Acid,"10,334,172","2,557,764",7.11,"[-1, None, -1, None, -1, None, -1, None, -1]"
+68,68,Azithromycin,"10,155,807","7,405,927",28.38,Macrolide Antimicrobial
+69,69,Acetaminophen; Oxycodone,"10,086,467","2,702,463",75.05,Opioid Agonist
+70,70,Hydroxyzine,"10,058,837","2,967,009",16.85,Antihistamine
+71,71,Insulin Lispro,"10,013,738","2,272,153",692.13,Insulin Analog
+72,72,Diclofenac,"9,926,749","3,647,127",63.57,Nonsteroidal Anti-inflammatory Drug
+73,73,Loratadine,"9,914,365","2,695,131",9.19,"[-1, None, -1, None, -1, None, -1, None, -1]"
+74,74,Sitagliptin,"9,885,657","1,937,355",926.71,Dipeptidyl Peptidase 4 Inhibitor
+75,75,Clonidine,"9,867,546","1,956,023",68.13,Central alpha-2 Adrenergic Agonist
+76,76,Diltiazem,"9,787,088","2,114,110",97.44,Calcium Channel Blocker
+77,77,Latanoprost,"9,722,630","2,650,387",38.28,Prostaglandin Analog
+78,78,Pregabalin,"9,227,867","1,711,184",125.08,"[-1, None, -1, None, -1, None, -1, None, -1]"
+79,79,Doxycycline,"9,152,604","5,132,350",38.75,Tetracycline-class Drug
+80,80,Insulin Aspart,"9,124,642","1,929,132",876.8,Insulin Analog
+81,81,Amitriptyline,"9,083,401","1,850,495",19.45,Tricyclic Antidepressant
+82,82,Paroxetine,"9,029,667","1,813,642",15.6,Serotonin Reuptake Inhibitor
+83,83,Ondansetron,"8,773,584","4,247,796",43.59,Serotonin-3 Receptor Antagonist
+84,84,Tizanidine,"8,705,644","2,269,444",22.7,Central alpha-2 Adrenergic Agonist
+85,85,Lisdexamfetamine,"8,647,783","1,326,189",348.35,Central Nervous System Stimulant
+86,86,Rivaroxaban,"8,644,837","2,090,497",840.73,Factor Xa Inhibitor
+87,87,Glimepiride,"8,566,883","1,899,338",15.26,Sulfonylurea
+88,88,Propranolol,"8,470,628","1,906,375",34.61,beta-Adrenergic Blocker
+89,89,Aripiprazole,"8,267,949","1,330,788",269.65,Atypical Antipsychotic
+90,90,Finasteride,"8,185,106","2,156,558",19.83,5-alpha Reductase Inhibitor
+91,91,Naproxen,"8,184,638","3,381,034",21.68,Nonsteroidal Anti-inflammatory Drug
+92,92,Levetiracetam,"7,967,535","1,469,443",42.98,"[-1, None, -1, None, -1, None, -1, None, -1]"
+93,93,Hydrochlorothiazide; Losartan,"7,948,927","2,055,422",32.16,Angiotensin 2 Receptor Blocker
+94,94,Alendronate,"7,923,120","2,010,411",11.3,Bisphosphonate
+95,95,Fenofibrate,"7,668,856","1,672,430",39.31,Peroxisome Proliferator Receptor alpha Agonist
+96,96,Dulaglutide,"7,657,320","1,506,236",1145.01,GLP-1 Receptor Agonist
+97,97,Oxybutynin,"7,098,461","1,782,229",39.39,Cholinergic Muscarinic Antagonist
+98,98,Celecoxib,"7,089,211","1,800,049",65.62,Nonsteroidal Anti-inflammatory Drug
+99,99,Lovastatin,"7,033,634","1,609,729",21.86,HMG-CoA Reductase Inhibitor
+100,100,Ezetimibe,"7,029,302","1,822,350",47.71,Dietary Cholesterol Absorption Inhibitor
+101,101,Cephalexin,"7,011,968","4,975,921",14.26,Cephalosporin Antibacterial
+102,102,Empagliflozin,"6,724,608","1,607,647",923.32,Sodium-Glucose Cotransporter 2 Inhibitor
+103,103,Hydralazine,"6,663,220","1,649,246",21.0,Arteriolar Vasodilator
+104,104,Mirtazapine,"6,601,131","1,160,871",21.94,"[-1, None, -1, None, -1, None, -1, None, -1]"
+105,105,Cyanocobalamin,"6,596,311","1,696,951",44.34,Vitamin B12
+106,106,Triamcinolone,"6,422,561","3,926,352",13.55,Corticosteroid
+107,107,Amoxicillin; Clavulanate,"6,086,124","4,558,138",26.88,Penicillin-class Antibacterial
+108,108,Baclofen,"6,009,146","1,519,109",28.63,gamma-Aminobutyric Acid-ergic Agonist
+109,109,Valproate,"6,000,123","909,451",40.89,Anti-epileptic Agent
+110,110,Tiotropium,"5,933,058","1,191,833",680.09,Anticholinergic
+111,111,Sumatriptan,"5,915,272","1,658,061",90.43,Serotonin-1b and Serotonin-1d Receptor Agonist
+112,112,Donepezil,"5,899,553","1,436,971",31.82,Cholinesterase Inhibitor
+113,113,Methotrexate,"5,824,013","1,130,078",37.47,Folate Analog Metabolic Inhibitor
+114,114,Isosorbide,"5,795,198","1,395,825",16.5,Nitrate Vasodilator
+115,115,Fluticasone; Vilanterol,"5,678,546","1,087,587",442.91,Corticosteroid
+116,116,Ferrous Sulfate,"5,652,902","1,828,969",6.52,"[-1, None, -1, None, -1, None, -1, None, -1]"
+117,117,Thyroid,"5,625,456","1,197,128",56.44,"[-1, None, -1, None, -1, None, -1, None, -1]"
+118,118,Acetaminophen,"5,610,163","2,717,148",5.94,"[-1, None, -1, None, -1, None, -1, None, -1]"
+119,119,Valacyclovir,"5,466,726","2,410,470",39.53,Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor
+120,120,Desogestrel; Ethinyl Estradiol,"5,444,043","1,185,053",33.58,"[-1, None, -1, None, -1, None, -1, None, -1]"
+121,121,Sulfamethoxazole; Trimethoprim,"5,425,466","3,404,743",9.46,Sulfonamide Antimicrobial
+122,122,Esomeprazole,"5,204,950","1,257,544",203.93,Proton Pump Inhibitor
+123,123,Valsartan,"5,173,072","1,328,940",65.98,Angiotensin 2 Receptor Blocker
+124,124,Insulin Detemir,"5,164,647","1,111,229",747.14,Insulin Analog
+125,125,Clindamycin,"5,130,999","2,709,249",38.73,Lincosamide Antibacterial
+126,126,Hydroxychloroquine,"4,992,835","1,224,515",81.3,Antirheumatic Agent
+127,127,Methocarbamol,"4,981,836","1,822,996",14.15,Muscle Relaxant
+128,128,Diazepam,"4,972,397","1,184,256",12.88,Benzodiazepine
+129,129,Semaglutide,"4,827,483","1,126,514",1486.35,GLP-1 Receptor Agonist
+130,130,Dexmethylphenidate,"4,802,551","681,537",201.39,Central Nervous System Stimulant
+131,131,Hydrochlorothiazide; Triamterene,"4,783,812","1,167,750",15.29,Thiazide Diuretic
+132,132,Ciprofloxacin,"4,759,043","3,141,345",23.33,Quinolone Antimicrobial
+133,133,Chlorthalidone,"4,707,841","1,269,577",40.18,Thiazide-like Diuretic
+134,134,Rizatriptan,"4,667,144","955,189",13.46,Serotonin-1b and Serotonin-1d Receptor Agonist
+135,135,Nifedipine,"4,657,308","1,032,862",34.06,Dihydropyridine Calcium Channel Blocker
+136,136,Insulin Degludec,"4,600,262","932,573",1075.8,Insulin Analog
+137,137,Norethindrone,"4,501,968","1,191,825",35.62,Progestin
+138,138,Risperidone,"4,462,991","698,895",10.87,Atypical Antipsychotic
+139,139,Olmesartan,"4,458,453","1,163,607",67.74,Angiotensin 2 Receptor Blocker
+140,140,Morphine,"4,384,336","667,722",36.76,Opioid Agonist
+141,141,Benazepril,"4,374,519","1,026,815",9.9,Angiotensin Converting Enzyme Inhibitor
+142,142,Meclizine,"4,349,444","1,742,409",10.28,Antiemetic
+143,143,Timolol,"4,295,412","949,166",33.43,beta-Adrenergic Blocker
+144,144,Oxcarbazepine,"4,276,699","567,473",39.69,Anti-epileptic Agent
+145,145,Drospirenone; Ethinyl Estradiol,"4,124,207","996,093",99.92,"[-1, None, -1, None, -1, None, -1, None, -1]"
+146,146,Liraglutide,"4,063,184","957,309",1316.79,GLP-1 Receptor Agonist
+147,147,Dicyclomine,"4,060,734","1,125,571",22.17,Anticholinergic
+148,148,Irbesartan,"4,028,832","933,587",34.19,Angiotensin 2 Receptor Blocker
+149,149,Hydrocortisone,"3,998,412","2,172,726",28.97,Corticosteroid
+150,150,Albuterol; Ipratropium,"3,967,936","902,034",289.73,beta2-Adrenergic Agonist
+151,151,Verapamil,"3,936,378","874,295",62.19,Calcium Channel Blocker
+152,152,Memantine,"3,928,015","815,190",42.85,N-methyl-D-aspartate Receptor Antagonist
+153,153,Prednisolone,"3,894,468","2,082,074",43.11,Corticosteroid
+154,154,Metformin; Sitagliptin,"3,847,462","726,067",815.99,Biguanide
+155,155,Nortriptyline,"3,815,024","695,323",14.25,Tricyclic Antidepressant
+156,156,Ropinirole,"3,776,826","765,133",27.13,Nonergot Dopamine Agonist
+157,157,Benzonatate,"3,689,272","2,686,915",16.49,Non-narcotic Antitussive
+158,158,Progesterone,"3,617,743","983,405",130.25,Progesterone
+159,159,Ethinyl Estradiol; Levonorgestrel,"3,588,502","1,157,623",59.51,Progestin
+160,160,Mirabegron,"3,570,676","838,764",618.73,beta3-Adrenergic Agonist
+161,161,Methylprednisolone,"3,535,987","2,456,989",15.88,Corticosteroid
+162,162,Acyclovir,"3,517,810","1,100,883",12.92,Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor
+163,163,Docusate,"3,511,398","1,662,829",7.21,"[-1, None, -1, None, -1, None, -1, None, -1]"
+164,164,Olanzapine,"3,498,182","638,470",21.34,Atypical Antipsychotic
+165,165,Nitroglycerin,"3,483,186","1,228,296",35.21,Nitrate Vasodilator
+166,166,Bimatoprost,"3,483,064","720,422",391.22,Prostaglandin Analog
+167,167,Nitrofurantoin,"3,456,512","2,390,228",59.11,Nitrofuran Antibacterial
+168,168,Pioglitazone,"3,443,215","872,309",30.01,Peroxisome Proliferator Receptor alpha Agonist
+169,169,Amlodipine; Benazepril,"3,434,363","711,394",67.12,Dihydropyridine Calcium Channel Blocker
+170,170,Ketoconazole,"3,417,349","1,674,690",37.5,Azole Antifungal
+171,171,Clobetasol,"3,395,469","1,640,838",61.18,Corticosteroid
+172,172,Testosterone,"3,359,583","946,138",304.52,Androgen
+173,173,Azelastine,"3,334,304","1,210,421",25.48,Histamine-1 Receptor Antagonist
+174,174,Fluconazole,"3,308,929","2,031,951",24.86,Azole Antifungal
+175,175,Brimonidine,"3,271,308","860,260",119.7,alpha-Adrenergic Agonist
+176,176,Desvenlafaxine,"3,267,575","624,316",66.92,Serotonin and Norepinephrine Reuptake Inhibitor
+177,177,Ranitidine,"3,260,051","1,094,672",30.32,Histamine-2 Receptor Antagonist
+178,178,Oseltamivir,"3,185,814","2,838,901",118.54,Neuraminidase Inhibitor
+179,179,Levocetirizine,"3,108,431","803,646",38.04,Histamine-1 Receptor Antagonist
+180,180,Anastrozole,"3,090,061","727,779",40.76,Aromatase Inhibitor
+181,181,Phentermine,"3,071,041","824,329",14.06,Sympathomimetic Amine Anorectic
+182,182,Sucralfate,"2,971,604","836,122",162.71,Aluminum Complex
+183,183,Sildenafil,"2,963,291","1,080,675",23.71,Phosphodiesterase 5 Inhibitor
+184,184,Mesalamine,"2,949,823","601,145",863.25,Aminosalicylate
+185,185,Carbamazepine,"2,858,880","440,198",112.02,Mood Stabilizer
+186,186,Buprenorphine,"2,850,298","331,721",246.11,Partial Opioid Agonist
+187,187,Acetaminophen; Codeine,"2,791,617","1,314,846",18.65,Opioid Agonist
+188,188,Flecainide,"2,707,962","558,077",68.63,Antiarrhythmic
+189,189,Gemfibrozil,"2,679,954","585,900",21.51,Peroxisome Proliferator Receptor alpha Agonist
+190,190,Prazosin,"2,675,264","460,446",31.64,alpha-Adrenergic Blocker
+191,191,Lansoprazole,"2,623,738","617,945",76.1,Proton Pump Inhibitor
+192,192,Diphenhydramine,"2,614,773","564,389",0.0,"[-1, None, -1, None, -1, None, -1, None, -1]"
+193,193,Pramipexole,"2,589,438","580,226",22.4,Nonergot Dopamine Agonist
+194,194,Ethinyl Estradiol; Etonogestrel,"2,540,913","693,822",234.64,Estrogen
+195,195,Dorzolamide; Timolol,"2,482,440","604,169",67.39,Carbonic Anhydrase Inhibitor
+196,196,Ramipril,"2,466,660","772,772",25.96,Angiotensin Converting Enzyme Inhibitor
+197,197,Lithium,"2,460,054","396,292",11.68,Mood Stabilizer
+198,198,Amiodarone,"2,445,496","677,240",38.0,Antiarrhythmic
+199,199,Omega-3-acid Ethyl Esters,"2,418,806","674,805",38.58,Omega-3 Fatty Acid
+200,200,Glyburide,"2,417,882","506,025",14.44,Sulfonylurea
