@@ -5,7 +5,7 @@ import pandas as pd
 # initializing an lists to store drug info
 drug_info = []
 drug_prices = []
-drug_class = []
+drug_class_date = []
 
 # initializing a list to store hrefs
 href_list = []
@@ -72,34 +72,34 @@ def cost(href):
 
 # now we will scrape each Established Pharmacologic Class (EPC)
 # type/function of medication
-def EPC(href):
+# and the date it was approved byu the FDA
+def EPC_and_date(href):
     # creating an empty list to store drug classification
-    epc = []
+    info = []
 
     # establishing the url, requests page, and html parser object
     url = f'https://clincalc.com/DrugStats/{href}'
     page = requests.get(url).text
     doc = BeautifulSoup(page, "html.parser")
 
-    # findint teh table in which the classification is held in 
-    tr_tags = doc.find_all('table')[-1]
+    # finding the table in which the info is held in 
+    table_tags = doc.find_all('table')[-1]
 
-    # finding the a tag the string is held in
-    for items in tr_tags:
-        a_tags = items.find('a')
+    # Now sifting through teh td tags in that table
+    td_tags = table_tags.find_all('td')
 
-        
-        # adding all elements in the a tag to the list
-        epc.append(a_tags)
+    # appending all text td tags in the list
+    for i in td_tags:
+        info.append(i.text)
+
+    epc_date = info[1:2] + info[3:4]
 
     # some drug EPC is N/A so we will mark it as N/A if missing
-    if epc[1] == None:
-        epc1 = 'N/A'
-    else:    
-        # only keeping the string   
-        epc = epc[1].text
+    if epc_date[0] == None:
+        epc_date[0] = 'N/A'
     
-    return epc
+    
+    return epc_date
 
     
 
@@ -110,7 +110,7 @@ for href in href_list:
     drug_prices.append(cost(href))
 
     # using the EPC function to add drug classes for each drug
-    drug_class.append(EPC(href)) 
+    drug_class_date.append(EPC_and_date(href)) 
 
 # creating a dataframe from our td_text list
 # we will later add onto the dataframe
@@ -120,13 +120,19 @@ df = pd.DataFrame(drug_info, columns=['Drug Rank', 'Drug Name', 'Total Prescript
 # since csv has 51 rows, the 1st is an empty one but will fix that later
 # adding in a random integer to the drug price list so lengths match
 drug_prices.insert(0,1)
-drug_class.insert(0,1)
+
+# Since the class and date list is a list of lists, have to insert a list
+# at the first index to increse the row count
+drug_class_date.insert(0,[1,1])
 
 # adding the drug price list to the df
 df['Average Drug Price Per Prescription'] = drug_prices
 
-# addign the drug classes lsit to the df as well
-df['Drug Class'] = drug_class
+# adding the drug classes list to the df as well
+epc_column = [item[0] for item in drug_class_date]
+date_column = [item[1] for item in drug_class_date]
+df['Drug Class'] = epc_column
+df["FDA Approval Date"] = date_column
 
 # creating a csv of our df
 df.to_csv('Drug_Information.csv')
