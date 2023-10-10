@@ -1,0 +1,202 @@
+,Unnamed: 0,Unnamed:  0,Drug Rank,Drug Name_x,Total Prescriptions,Total Patients,Average Drug Price Per Prescription,Drug Class,FDA Approval Date,General Classification
+0,0,0,,,,,1.0,1,1,
+1,1,1,1.0,Atorvastatin,114509814.0,26640141.0,15.67,HMG-CoA Reductase Inhibitor,12/17/1996,Heart Health
+2,2,2,2.0,Levothyroxine,98970640.0,20225373.0,25.95,l-Thyroxine,8/21/2000,Cancer/Anti-Inflammatory
+3,3,3,3.0,Metformin,92591486.0,20122987.0,11.07,Biguanide,3/3/1995,Diabetes/Blood sugar
+4,4,4,4.0,Lisinopril,88597017.0,19816361.0,8.44,Angiotensin Converting Enzyme Inhibitor,12/29/1987,Heart Health
+5,5,5,5.0,Amlodipine,69786684.0,16799810.0,8.67,Dihydropyridine Calcium Channel Blocker,7/31/1992,Heart Health
+6,6,6,6.0,Metoprolol,66413692.0,15007908.0,18.87,beta-Adrenergic Blocker,"Prior to January 1, 1982",Heart Health
+7,7,7,7.0,Albuterol,61948347.0,17902020.0,54.06,beta2-Adrenergic Agonist,"Prior to January 1, 1982",Lung Health
+8,8,8,8.0,Omeprazole,56300064.0,13879629.0,16.18,Proton Pump Inhibitor,9/14/1989,Stomach Health
+9,9,9,9.0,Losartan,54815411.0,12690563.0,14.38,Angiotensin 2 Receptor Blocker,4/14/1995,Heart Health
+10,10,10,10.0,Gabapentin,49961066.0,10571700.0,50.89,Anti-epileptic Agent,12/30/1993,Epilepsy/Seizure
+11,11,11,11.0,Hydrochlorothiazide,41476098.0,10031904.0,7.76,Thiazide Diuretic,"Prior to January 1, 1982",Heart Health
+12,12,12,12.0,Sertraline,38219814.0,7768366.0,13.68,Serotonin Reuptake Inhibitor,12/30/1991,Antidepressant/Mental Health
+13,13,13,13.0,Simvastatin,36600871.0,8557525.0,11.91,HMG-CoA Reductase Inhibitor,12/23/1991,Heart Health
+14,14,14,14.0,Montelukast,31984479.0,7227021.0,26.19,Leukotriene Receptor Antagonist,2/20/1998,Allergy/Lung Health
+15,15,15,15.0,Escitalopram,30605646.0,6342599.0,18.73,Serotonin Reuptake Inhibitor,8/14/2002,Antidepressant/Mental Health
+16,16,16,16.0,Acetaminophen; Hydrocodone,30100356.0,8587152.0,23.14,Opioid Agonist,"Prior to January 1, 1982",Opiods
+17,17,17,17.0,Rosuvastatin,29750488.0,7393686.0,60.3,HMG-CoA Reductase Inhibitor,8/12/2003,Heart Health
+18,18,18,18.0,Bupropion,28889368.0,5801282.0,447.01,Aminoketone,12/30/1985,Antidepressant
+19,19,19,19.0,Furosemide,26786296.0,6405654.0,7.34,Loop Diuretic,"Prior to January 1, 1982",Heart Health/Kidney Health
+20,20,20,20.0,Pantoprazole,26604040.0,6814036.0,37.11,Proton Pump Inhibitor,2/2/2000,Stomach Health
+21,21,21,21.0,Trazodone,26210731.0,5294364.0,12.57,Serotonin Reuptake Inhibitor,"Prior to January 1, 1982",Antidepressant/Mental Health
+22,22,22,22.0,Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate,26080151.0,3633541.0,90.03,Central Nervous System Stimulant,"Prior to January 1, 1982",Stimulant
+23,23,23,23.0,Fluticasone,24777490.0,7805740.0,94.27,Corticosteroid,12/14/1990,Anti-Inflammatory
+24,24,24,24.0,Tamsulosin,24692402.0,5856108.0,54.4,alpha-Adrenergic Blocker,4/15/1997,Heart Health
+25,25,25,25.0,Fluoxetine,23403050.0,4717183.0,27.94,Serotonin Reuptake Inhibitor,12/29/1987,Antidepressant/Mental Health
+26,26,26,26.0,Carvedilol,23159628.0,4948170.0,13.04,"alpha-Adrenergic Blocker, beta-Adrenergic Blocker",9/14/1995,Heart Health
+27,27,27,27.0,Duloxetine,22546920.0,4461604.0,28.18,Serotonin and Norepinephrine Reuptake Inhibitor,8/3/2004,Antidepressant/Mental Health
+28,28,28,28.0,Meloxicam,19808581.0,6057630.0,8.37,Nonsteroidal Anti-inflammatory Drug,4/13/2000,Anti-Inflammatory
+29,29,29,29.0,Clopidogrel,19377527.0,4340688.0,18.39,P2Y12 Platelet Inhibitor,11/17/1997,Blood Thinner
+30,30,30,30.0,Prednisone,19044926.0,9203354.0,10.7,Corticosteroid,"Prior to January 1, 1982",Anti-Inflammatory
+31,31,31,31.0,Citalopram,18549176.0,3683842.0,8.12,Serotonin Reuptake Inhibitor,7/17/1998,Antidepressant/Mental Health
+32,32,32,32.0,Insulin Glargine,17973209.0,3662505.0,486.52,Insulin Analog,8/15/1984,Diabetes/Blood sugar
+33,33,33,33.0,Potassium Chloride,17811732.0,4637643.0,42.0,Potassium Salt,"Prior to January 1, 1982",Electrolyte
+34,34,34,34.0,Pravastatin,17549151.0,4132511.0,19.91,HMG-CoA Reductase Inhibitor,10/31/1991,Heart Health
+35,35,35,35.0,Tramadol,17475419.0,4878951.0,13.27,Opioid Agonist,3/3/1995,Opiods
+36,36,36,36.0,Aspirin,17287372.0,4741732.0,4.54,"Nonsteroidal Anti-inflammatory Drug, Platelet Aggregation Inhibitor","Prior to January 1, 1982",Anti-Inflammatory
+37,37,37,37.0,Alprazolam,16780805.0,3632458.0,11.71,Benzodiazepine,"Prior to January 1, 1982",Anxiety/Seizure/Mental Health
+38,38,38,38.0,Ibuprofen,16533209.0,8896328.0,10.07,Nonsteroidal Anti-inflammatory Drug,"Prior to January 1, 1982",Anti-Inflammatory
+39,39,39,39.0,Cyclobenzaprine,16151696.0,5129829.0,15.29,Muscle Relaxant,"Prior to January 1, 1982",Muscle Health
+40,40,40,40.0,Amoxicillin,15922907.0,12780652.0,9.75,Penicillin-class Antibacterial,"Prior to January 1, 1982",Antibiotic
+41,41,41,41.0,Methylphenidate,15449350.0,2441634.0,212.02,Central Nervous System Stimulant,"Prior to January 1, 1982",Stimulant
+42,42,42,42.0,Allopurinol,15303283.0,3606249.0,18.03,Xanthine Oxidase Inhibitor,"Prior to January 1, 1982",Lung Health
+43,43,43,43.0,Venlafaxine,15022423.0,2863619.0,92.15,Serotonin and Norepinephrine Reuptake Inhibitor,12/28/1993,Antidepressant/Mental Health
+44,44,44,44.0,Clonazepam,14758212.0,2498126.0,12.08,Benzodiazepine,"Prior to January 1, 1982",Anxiety/Seizure/Mental Health
+45,45,45,45.0,Ethinyl Estradiol; Norethindrone,14716809.0,2955082.0,80.9,"Estrogen, Progestin","Prior to January 1, 1982",Sex Hormone
+46,46,46,46.0,Ergocalciferol,14670983.0,4448964.0,12.1,Provitamin D2 Compound,"Prior to January 1, 1982",Vitamin/Liver Health
+47,47,47,47.0,Zolpidem,14272253.0,2592750.0,16.99,gamma-Aminobutyric Acid-ergic Agonist,12/16/1992,Sedative
+48,48,48,48.0,Apixaban,13918650.0,3305979.0,740.02,Factor Xa Inhibitor,12/28/2012,Blood Thinner
+49,49,49,49.0,Glipizide,13674142.0,3383057.0,11.87,Sulfonylurea,5/8/1984,Diabetes/Blood sugar
+50,50,50,50.0,Hydrochlorothiazide; Lisinopril,13559563.0,2899536.0,10.69,"Thiazide Diuretic, Angiotensin Converting Enzyme Inhibitor",2/16/1989,Heart Health
+51,51,51,51.0,Spironolactone,13354566.0,3131156.0,15.79,Aldosterone Antagonist,"Prior to January 1, 1982",Heart Health
+52,52,52,52.0,Cetirizine,13125543.0,3357330.0,14.1,Histamine-1 Receptor Antagonist,9/27/1996,Allergy
+53,53,53,53.0,Atenolol,12860512.0,3143500.0,10.0,beta-Adrenergic Blocker,"Prior to January 1, 1982",Heart Health
+54,54,54,54.0,Oxycodone,12289518.0,4092089.0,57.79,Opioid Agonist,10/26/1998,Opiods
+55,55,55,55.0,Buspirone,11820023.0,2562053.0,20.9,,9/29/1986,
+56,56,56,56.0,Fluticasone; Salmeterol,11577409.0,2562481.0,452.77,"Corticosteroid, beta2-Adrenergic Agonist",8/24/2000,Lung Health
+57,57,57,57.0,Topiramate,11482269.0,2124766.0,161.7,,12/24/1996,
+58,58,58,58.0,Warfarin,11467999.0,2424821.0,17.53,Vitamin K Antagonist,"Prior to January 1, 1982",Heart Health
+59,59,59,59.0,Estradiol,11307655.0,3131982.0,79.61,Estrogen,"Prior to January 1, 1982",Sex Hormone
+60,60,60,60.0,Cholecalciferol,11115876.0,2977877.0,6.55,,5/18/2000,
+61,61,61,61.0,Budesonide; Formoterol,11114689.0,2348352.0,374.51,"Corticosteroid, beta2-Adrenergic Agonist",7/21/2006,Lung Health
+62,62,62,62.0,Lamotrigine,10801628.0,1713712.0,68.92,"Anti-epileptic Agent, Mood Stabilizer",12/27/1994,Epilepsy/Seizure
+63,63,63,63.0,Ethinyl Estradiol; Norgestimate,10686537.0,2556898.0,20.6,,12/29/1989,
+64,64,64,64.0,Quetiapine,10574791.0,1784327.0,22.36,Atypical Antipsychotic,9/26/1997,Mental Health/Antipsychotic
+65,65,65,65.0,Lorazepam,10559374.0,2492279.0,13.45,Benzodiazepine,"Prior to January 1, 1982",Anxiety/Seizure/Mental Health
+66,66,66,66.0,Famotidine,10441964.0,3383683.0,17.92,Histamine-2 Receptor Antagonist,10/15/1986,Allergy/Stomach Health
+67,67,67,67.0,Folic Acid,10334172.0,2557764.0,7.11,,"Prior to January 1, 1982",
+68,68,68,68.0,Azithromycin,10155807.0,7405927.0,28.38,Macrolide Antimicrobial,11/1/1991,Antibiotic
+69,69,69,69.0,Acetaminophen; Oxycodone,10086467.0,2702463.0,75.05,Opioid Agonist,"Prior to January 1, 1982",Opiods
+70,70,70,70.0,Hydroxyzine,10058837.0,2967009.0,16.85,Antihistamine,"Prior to January 1, 1982",Allergy
+71,71,71,71.0,Insulin Lispro,10013738.0,2272153.0,692.13,Insulin Analog,6/14/1996,Diabetes/Blood sugar
+72,72,72,72.0,Diclofenac,9926749.0,3647127.0,63.57,Nonsteroidal Anti-inflammatory Drug,7/28/1988,Anti-Inflammatory
+73,73,73,73.0,Loratadine,9914365.0,2695131.0,9.19,,11/27/2002,
+74,74,74,74.0,Sitagliptin,9885657.0,1937355.0,926.71,Dipeptidyl Peptidase 4 Inhibitor,10/16/2006,Diabetes/Blood sugar
+75,75,75,75.0,Clonidine,9867546.0,1956023.0,68.13,Central alpha-2 Adrenergic Agonist,"Prior to January 1, 1982",Heart Health
+76,76,76,76.0,Diltiazem,9787088.0,2114110.0,97.44,Calcium Channel Blocker,11/5/1982,Heart Health
+77,77,77,77.0,Latanoprost,9722630.0,2650387.0,38.28,Prostaglandin Analog,6/5/1996,Eye Health
+78,78,78,78.0,Pregabalin,9227867.0,1711184.0,125.08,,12/30/2004,
+79,79,79,79.0,Doxycycline,9152604.0,5132350.0,38.75,Tetracycline-class Drug,"Prior to January 1, 1982",Antibiotic
+80,80,80,80.0,Insulin Aspart,9124642.0,1929132.0,876.8,Insulin Analog,8/27/2001,Diabetes/Blood sugar
+81,81,81,81.0,Amitriptyline,9083401.0,1850495.0,19.45,Tricyclic Antidepressant,"Prior to January 1, 1982",Antidepressant/Mental Health
+82,82,82,82.0,Paroxetine,9029667.0,1813642.0,15.6,Serotonin Reuptake Inhibitor,12/29/1992,Antidepressant/Mental Health
+83,83,83,83.0,Ondansetron,8773584.0,4247796.0,43.59,Serotonin-3 Receptor Antagonist,1/4/1991,Nausea
+84,84,84,84.0,Tizanidine,8705644.0,2269444.0,22.7,Central alpha-2 Adrenergic Agonist,11/27/1996,Heart Health
+85,85,85,85.0,Lisdexamfetamine,8647783.0,1326189.0,348.35,Central Nervous System Stimulant,2/23/2007,Stimulant
+86,86,86,86.0,Rivaroxaban,8644837.0,2090497.0,840.73,Factor Xa Inhibitor,7/1/2011,Blood Thinner
+87,87,87,87.0,Glimepiride,8566883.0,1899338.0,15.26,Sulfonylurea,11/30/1995,Diabetes/Blood sugar
+88,88,88,88.0,Propranolol,8470628.0,1906375.0,34.61,beta-Adrenergic Blocker,"Prior to January 1, 1982",Heart Health
+89,89,89,89.0,Aripiprazole,8267949.0,1330788.0,269.65,Atypical Antipsychotic,11/15/2002,Mental Health/Antipsychotic
+90,90,90,90.0,Finasteride,8185106.0,2156558.0,19.83,5-alpha Reductase Inhibitor,6/19/1992,DHT Blocker/Prostate/Hair health
+91,91,91,91.0,Naproxen,8184638.0,3381034.0,21.68,Nonsteroidal Anti-inflammatory Drug,"Prior to January 1, 1982",Anti-Inflammatory
+92,92,92,92.0,Levetiracetam,7967535.0,1469443.0,42.98,,11/30/1999,
+93,93,93,93.0,Hydrochlorothiazide; Losartan,7948927.0,2055422.0,32.16,"Angiotensin 2 Receptor Blocker, Thiazide Diuretic",4/28/1995,Heart Health
+94,94,94,94.0,Alendronate,7923120.0,2010411.0,11.3,Bisphosphonate,9/29/1995,Skeletal Health
+95,95,95,95.0,Fenofibrate,7668856.0,1672430.0,39.31,Peroxisome Proliferator Receptor alpha Agonist,12/31/1993,Diabetes/Blood sugar
+96,96,96,96.0,Dulaglutide,7657320.0,1506236.0,1145.01,GLP-1 Receptor Agonist,9/18/2014,Diabetes/Blood sugar
+97,97,97,97.0,Oxybutynin,7098461.0,1782229.0,39.39,Cholinergic Muscarinic Antagonist,"Prior to January 1, 1982",Lung Health
+98,98,98,98.0,Celecoxib,7089211.0,1800049.0,65.62,Nonsteroidal Anti-inflammatory Drug,12/31/1998,Anti-Inflammatory
+99,99,99,99.0,Lovastatin,7033634.0,1609729.0,21.86,HMG-CoA Reductase Inhibitor,8/31/1987,Heart Health
+100,100,100,100.0,Ezetimibe,7029302.0,1822350.0,47.71,Dietary Cholesterol Absorption Inhibitor,10/25/2002,Heart Health
+101,101,101,101.0,Cephalexin,7011968.0,4975921.0,14.26,Cephalosporin Antibacterial,"Prior to January 1, 1982",Infections
+102,102,102,102.0,Empagliflozin,6724608.0,1607647.0,923.32,Sodium-Glucose Cotransporter 2 Inhibitor,8/1/2014,Diabetes/Blood sugar
+103,103,103,103.0,Hydralazine,6663220.0,1649246.0,21.0,Arteriolar Vasodilator,"Prior to January 1, 1982",Heart Health
+104,104,104,104.0,Mirtazapine,6601131.0,1160871.0,21.94,,6/14/1996,
+105,105,105,105.0,Cyanocobalamin,6596311.0,1696951.0,44.34,Vitamin B12,"Prior to January 1, 1982",Vitamin/Liver Health
+106,106,106,106.0,Triamcinolone,6422561.0,3926352.0,13.55,Corticosteroid,"Prior to January 1, 1982",Anti-Inflammatory
+107,107,107,107.0,Amoxicillin; Clavulanate,6086124.0,4558138.0,26.88,"Penicillin-class Antibacterial, beta Lactamase Inhibitor",8/6/1984,Antibiotic
+108,108,108,108.0,Baclofen,6009146.0,1519109.0,28.63,gamma-Aminobutyric Acid-ergic Agonist,"Prior to January 1, 1982",Sedative
+109,109,109,109.0,Valproate,6000123.0,909451.0,40.89,"Anti-epileptic Agent, Mood Stabilizer","Prior to January 1, 1982",Epilepsy/Seizure
+110,110,110,110.0,Tiotropium,5933058.0,1191833.0,680.09,Anticholinergic,1/30/2004,CNS/PNS
+111,111,111,111.0,Sumatriptan,5915272.0,1658061.0,90.43,Serotonin-1b and Serotonin-1d Receptor Agonist,12/28/1992,Migraine
+112,112,112,112.0,Donepezil,5899553.0,1436971.0,31.82,Cholinesterase Inhibitor,11/25/1996,Dementia/Memory
+113,113,113,113.0,Methotrexate,5824013.0,1130078.0,37.47,Folate Analog Metabolic Inhibitor,"Prior to January 1, 1982",Cancer/Anti-Inflammatory
+114,114,114,114.0,Isosorbide,5795198.0,1395825.0,16.5,Nitrate Vasodilator,"Prior to January 1, 1982",Heart Health
+115,115,115,115.0,Fluticasone; Vilanterol,5678546.0,1087587.0,442.91,"Corticosteroid, beta2-Adrenergic Agonist",5/10/2013,Lung Health
+116,116,116,116.0,Ferrous Sulfate,5652902.0,1828969.0,6.52,,"Prior to January 1, 1982",
+117,117,117,117.0,Thyroid,5625456.0,1197128.0,56.44,,3/3/1983,
+118,118,118,118.0,Acetaminophen,5610163.0,2717148.0,5.94,,"Prior to January 1, 1982",
+119,119,119,119.0,Valacyclovir,5466726.0,2410470.0,39.53,"Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor, Herpes Zoster Virus Nucleoside Analog DNA Polymerase Inhibitor, Herpesvirus Nucleoside Analog DNA Polymerase Inhibitor",6/23/1995,STD/Antiviral
+120,120,120,120.0,Desogestrel; Ethinyl Estradiol,5444043.0,1185053.0,33.58,,12/10/1992,
+121,121,121,121.0,Sulfamethoxazole; Trimethoprim,5425466.0,3404743.0,9.46,"Sulfonamide Antimicrobial, Dihydrofolate Reductase Inhibitor Antibacterial","Prior to January 1, 1982",Antibiotic
+122,122,122,122.0,Esomeprazole,5204950.0,1257544.0,203.93,Proton Pump Inhibitor,2/20/2001,Stomach Health
+123,123,123,123.0,Valsartan,5173072.0,1328940.0,65.98,Angiotensin 2 Receptor Blocker,12/23/1996,Heart Health
+124,124,124,124.0,Insulin Detemir,5164647.0,1111229.0,747.14,Insulin Analog,3/27/2006,Diabetes/Blood sugar
+125,125,125,125.0,Clindamycin,5130999.0,2709249.0,38.73,Lincosamide Antibacterial,"Prior to January 1, 1982",Antibiotic
+126,126,126,126.0,Hydroxychloroquine,4992835.0,1224515.0,81.3,"Antirheumatic Agent, Antimalarial","Prior to January 1, 1982",Arthritis
+127,127,127,127.0,Methocarbamol,4981836.0,1822996.0,14.15,Muscle Relaxant,"Prior to January 1, 1982",Muscle Health
+128,128,128,128.0,Diazepam,4972397.0,1184256.0,12.88,Benzodiazepine,"Prior to January 1, 1982",Anxiety/Seizure/Mental Health
+129,129,129,129.0,Semaglutide,4827483.0,1126514.0,1486.35,GLP-1 Receptor Agonist,12/5/2017,Diabetes/Blood sugar
+130,130,130,130.0,Dexmethylphenidate,4802551.0,681537.0,201.39,Central Nervous System Stimulant,11/13/2001,Stimulant
+131,131,131,131.0,Hydrochlorothiazide; Triamterene,4783812.0,1167750.0,15.29,"Thiazide Diuretic, Potassium-sparing Diuretic","Prior to January 1, 1982",Heart Health/Kidney Health
+132,132,132,132.0,Ciprofloxacin,4759043.0,3141345.0,23.33,Quinolone Antimicrobial,10/22/1987,Antibiotic
+133,133,133,133.0,Chlorthalidone,4707841.0,1269577.0,40.18,Thiazide-like Diuretic,"Prior to January 1, 1982",heart Health
+134,134,134,134.0,Rizatriptan,4667144.0,955189.0,13.46,Serotonin-1b and Serotonin-1d Receptor Agonist,6/29/1998,Migraine
+135,135,135,135.0,Nifedipine,4657308.0,1032862.0,34.06,Dihydropyridine Calcium Channel Blocker,"Prior to January 1, 1982",Heart Health
+136,136,136,136.0,Insulin Degludec,4600262.0,932573.0,1075.8,Insulin Analog,9/25/2015,Diabetes/Blood sugar
+137,137,137,137.0,Norethindrone,4501968.0,1191825.0,35.62,Progestin,"Prior to January 1, 1982",Sex Hormone
+138,138,138,138.0,Risperidone,4462991.0,698895.0,10.87,Atypical Antipsychotic,12/29/1993,Mental Health/Antipsychotic
+139,139,139,139.0,Olmesartan,4458453.0,1163607.0,67.74,Angiotensin 2 Receptor Blocker,4/25/2002,Heart Health
+140,140,140,140.0,Morphine,4384336.0,667722.0,36.76,Opioid Agonist,9/18/1984,Opiods
+141,141,141,141.0,Benazepril,4374519.0,1026815.0,9.9,Angiotensin Converting Enzyme Inhibitor,6/25/1991,Heart Health
+142,142,142,142.0,Meclizine,4349444.0,1742409.0,10.28,Antiemetic,"Prior to January 1, 1982",Nausea
+143,143,143,143.0,Timolol,4295412.0,949166.0,33.43,beta-Adrenergic Blocker,"Prior to January 1, 1982",Heart Health
+144,144,144,144.0,Oxcarbazepine,4276699.0,567473.0,39.69,Anti-epileptic Agent,1/14/2000,Epilepsy/Seizure
+145,145,145,145.0,Drospirenone; Ethinyl Estradiol,4124207.0,996093.0,99.92,,5/11/2001,
+146,146,146,146.0,Liraglutide,4063184.0,957309.0,1316.79,GLP-1 Receptor Agonist,1/25/2010,Diabetes/Blood sugar
+147,147,147,147.0,Dicyclomine,4060734.0,1125571.0,22.17,Anticholinergic,"Prior to January 1, 1982",CNS/PNS
+148,148,148,148.0,Irbesartan,4028832.0,933587.0,34.19,Angiotensin 2 Receptor Blocker,9/30/1997,Heart Health
+149,149,149,149.0,Hydrocortisone,3998412.0,2172726.0,28.97,Corticosteroid,"Prior to January 1, 1982",Anti-Inflammatory
+150,150,150,150.0,Albuterol; Ipratropium,3967936.0,902034.0,289.73,"beta2-Adrenergic Agonist, Anticholinergic",10/24/1996,Lung Health
+151,151,151,151.0,Verapamil,3936378.0,874295.0,62.19,Calcium Channel Blocker,"Prior to January 1, 1982",Heart Health
+152,152,152,152.0,Memantine,3928015.0,815190.0,42.85,N-methyl-D-aspartate Receptor Antagonist,10/16/2003,Memory
+153,153,153,153.0,Prednisolone,3894468.0,2082074.0,43.11,Corticosteroid,"Prior to January 1, 1982",Anti-Inflammatory
+154,154,154,154.0,Metformin; Sitagliptin,3847462.0,726067.0,815.99,"Biguanide, Dipeptidyl Peptidase 4 Inhibitor",3/30/2007,Diabetes/Blood sugar
+155,155,155,155.0,Nortriptyline,3815024.0,695323.0,14.25,Tricyclic Antidepressant,"Prior to January 1, 1982",Antidepressant/Mental Health
+156,156,156,156.0,Ropinirole,3776826.0,765133.0,27.13,Nonergot Dopamine Agonist,9/19/1997,Nerve Health
+157,157,157,157.0,Benzonatate,3689272.0,2686915.0,16.49,Non-narcotic Antitussive,"Prior to January 1, 1982",Antibiotic/Antiviral
+158,158,158,158.0,Progesterone,3617743.0,983405.0,130.25,Progesterone,"Prior to January 1, 1982",Sex Hormone
+159,159,159,159.0,Ethinyl Estradiol; Levonorgestrel,3588502.0,1157623.0,59.51,"Progestin, Progestin-containing Intrauterine Device, Estrogen",5/10/1982,Sex Hormone
+160,160,160,160.0,Mirabegron,3570676.0,838764.0,618.73,beta3-Adrenergic Agonist,6/28/2012,Muscle Health/Bladder/Excretory
+161,161,161,161.0,Methylprednisolone,3535987.0,2456989.0,15.88,Corticosteroid,"Prior to January 1, 1982",Anti-Inflammatory
+162,162,162,162.0,Acyclovir,3517810.0,1100883.0,12.92,"Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor, Herpes Zoster Virus Nucleoside Analog DNA Polymerase Inhibitor, Herpesvirus Nucleoside Analog DNA Polymerase Inhibitor",3/29/1982,STD/Antiviral
+163,163,163,163.0,Docusate,3511398.0,1662829.0,7.21,,1/7/1900,
+164,164,164,164.0,Olanzapine,3498182.0,638470.0,21.34,Atypical Antipsychotic,9/30/1996,Mental Health/Antipsychotic
+165,165,165,165.0,Nitroglycerin,3483186.0,1228296.0,35.21,Nitrate Vasodilator,"Prior to January 1, 1982",Heart Health
+166,166,166,166.0,Bimatoprost,3483064.0,720422.0,391.22,Prostaglandin Analog,3/16/2001,Eye Health
+167,167,167,167.0,Nitrofurantoin,3456512.0,2390228.0,59.11,Nitrofuran Antibacterial,"Prior to January 1, 1982",Antibiotic
+168,168,168,168.0,Pioglitazone,3443215.0,872309.0,30.01,"Peroxisome Proliferator Receptor alpha Agonist, Peroxisome Proliferator Receptor gamma Agonist, Thiazolidinedione",7/15/1999,Diabetes/Blood sugar
+169,169,169,169.0,Amlodipine; Benazepril,3434363.0,711394.0,67.12,"Dihydropyridine Calcium Channel Blocker, Angiotensin Converting Enzyme Inhibitor",3/3/1995,Heart Health
+170,170,170,170.0,Ketoconazole,3417349.0,1674690.0,37.5,Azole Antifungal,"Prior to January 1, 1982",Fungal Infections/Infections
+171,171,171,171.0,Clobetasol,3395469.0,1640838.0,61.18,Corticosteroid,12/27/1985,Anti-Inflammatory
+172,172,172,172.0,Testosterone,3359583.0,946138.0,304.52,Androgen,"Prior to January 1, 1982",Test Booster/Sex Hormone
+173,173,173,173.0,Azelastine,3334304.0,1210421.0,25.48,Histamine-1 Receptor Antagonist,11/1/1996,Allergy
+174,174,174,174.0,Fluconazole,3308929.0,2031951.0,24.86,Azole Antifungal,1/29/1990,Fungal Infections/Infections
+175,175,175,175.0,Brimonidine,3271308.0,860260.0,119.7,alpha-Adrenergic Agonist,9/6/1996,Heart Health
+176,176,176,176.0,Desvenlafaxine,3267575.0,624316.0,66.92,Serotonin and Norepinephrine Reuptake Inhibitor,2/29/2008,Antidepressant/Mental Health
+177,177,177,177.0,Ranitidine,3260051.0,1094672.0,30.32,Histamine-2 Receptor Antagonist,6/9/1983,Allergy/Stomach Health
+178,178,178,178.0,Oseltamivir,3185814.0,2838901.0,118.54,Neuraminidase Inhibitor,10/27/1999,Antiviral
+179,179,179,179.0,Levocetirizine,3108431.0,803646.0,38.04,Histamine-1 Receptor Antagonist,5/25/2007,Allergy
+180,180,180,180.0,Anastrozole,3090061.0,727779.0,40.76,Aromatase Inhibitor,12/27/1995,Breast Health
+181,181,181,181.0,Phentermine,3071041.0,824329.0,14.06,Sympathomimetic Amine Anorectic,"Prior to January 1, 1982",Weight Loss
+182,182,182,182.0,Sucralfate,2971604.0,836122.0,162.71,Aluminum Complex,"Prior to January 1, 1982",Antacid/Stomach
+183,183,183,183.0,Sildenafil,2963291.0,1080675.0,23.71,Phosphodiesterase 5 Inhibitor,3/27/1998,Erectile Disfuntion
+184,184,184,184.0,Mesalamine,2949823.0,601145.0,863.25,Aminosalicylate,12/24/1987,Bowel Health
+185,185,185,185.0,Carbamazepine,2858880.0,440198.0,112.02,Mood Stabilizer,"Prior to January 1, 1982",Antidepressant/Mental Health
+186,186,186,186.0,Buprenorphine,2850298.0,331721.0,246.11,Partial Opioid Agonist,"Prior to January 1, 1982",Opiods
+187,187,187,187.0,Acetaminophen; Codeine,2791617.0,1314846.0,18.65,Opioid Agonist,"Prior to January 1, 1982",Opiods
+188,188,188,188.0,Flecainide,2707962.0,558077.0,68.63,Antiarrhythmic,10/31/1985,Heart Health
+189,189,189,189.0,Gemfibrozil,2679954.0,585900.0,21.51,Peroxisome Proliferator Receptor alpha Agonist,"Prior to January 1, 1982",Diabetes/Blood sugar
+190,190,190,190.0,Prazosin,2675264.0,460446.0,31.64,alpha-Adrenergic Blocker,"Prior to January 1, 1982",Heart Health
+191,191,191,191.0,Lansoprazole,2623738.0,617945.0,76.1,Proton Pump Inhibitor,5/10/1995,Stomach Health
+192,192,192,192.0,Diphenhydramine,2614773.0,564389.0,0.0,,,
+193,193,193,193.0,Pramipexole,2589438.0,580226.0,22.4,Nonergot Dopamine Agonist,7/1/1997,Nerve Health
+194,194,194,194.0,Ethinyl Estradiol; Etonogestrel,2540913.0,693822.0,234.64,"Estrogen, Progestin",10/3/2001,Sex Hormone
+195,195,195,195.0,Dorzolamide; Timolol,2482440.0,604169.0,67.39,"Carbonic Anhydrase Inhibitor, beta-Adrenergic Blocker",4/7/1998,Eye Health
+196,196,196,196.0,Ramipril,2466660.0,772772.0,25.96,Angiotensin Converting Enzyme Inhibitor,1/28/1991,Heart Health
+197,197,197,197.0,Lithium,2460054.0,396292.0,11.68,Mood Stabilizer,"Prior to January 1, 1982",Antidepressant/Mental Health
+198,198,198,198.0,Amiodarone,2445496.0,677240.0,38.0,Antiarrhythmic,12/24/1985,Heart Health
+199,199,199,199.0,Omega-3-acid Ethyl Esters,2418806.0,674805.0,38.58,Omega-3 Fatty Acid,11/10/2004,Heart Health
+200,200,200,200.0,Glyburide,2417882.0,506025.0,14.44,Sulfonylurea,5/1/1984,Diabetes/Blood sugar

@@ -1,106 +1,106 @@
-Drug Class,Drug Name,General Classification
-1,0,
-5-alpha Reductase Inhibitor,1,DHT Blocker/Prostate/Hair health
-Aldosterone Antagonist,1,Heart Health
-Aluminum Complex,1,Antacid/Stomach
-Aminoketone,1,Antidepressant
-Aminosalicylate,1,Bowel Health
-Androgen,1,Test Booster/Sex Hormone
-Angiotensin 2 Receptor Blocker,4,Heart Health
-"Angiotensin 2 Receptor Blocker, Thiazide Diuretic",1,Heart Health
-Angiotensin Converting Enzyme Inhibitor,3,Heart Health
-Anti-epileptic Agent,2,Epilepsy/Seizure
-"Anti-epileptic Agent, Mood Stabilizer",2,Epilepsy/Seizure
-Antiarrhythmic,2,Heart Health
-Anticholinergic,2,CNS/PNS
-Antiemetic,1,Nausea
-Antihistamine,1,Allergy
-"Antirheumatic Agent, Antimalarial",1,Arthritis
-Aromatase Inhibitor,1,Breast Health
-Arteriolar Vasodilator,1,Heart Health
-Atypical Antipsychotic,4,Mental Health/Antipsychotic
-Azole Antifungal,2,Fungal Infections/Infections
-Benzodiazepine,4,Anxiety/Seizure/Mental Health
-Biguanide,1,Diabetes/Blood sugar
-"Biguanide, Dipeptidyl Peptidase 4 Inhibitor",1,Diabetes/Blood sugar
-Bisphosphonate,1,Skeletal Health
-Calcium Channel Blocker,2,Heart Health
-"Carbonic Anhydrase Inhibitor, beta-Adrenergic Blocker",1,Eye Health
-Central Nervous System Stimulant,4,Stimulant
-Central alpha-2 Adrenergic Agonist,2,Heart Health
-Cephalosporin Antibacterial,1,Infections
-Cholinergic Muscarinic Antagonist,1,Lung Health
-Cholinesterase Inhibitor,1,Dementia/Memory
-Corticosteroid,7,Anti-Inflammatory
-"Corticosteroid, beta2-Adrenergic Agonist",3,Lung Health
-Dietary Cholesterol Absorption Inhibitor,1,Heart Health
-Dihydropyridine Calcium Channel Blocker,2,Heart Health
-"Dihydropyridine Calcium Channel Blocker, Angiotensin Converting Enzyme Inhibitor",1,Heart Health
-Dipeptidyl Peptidase 4 Inhibitor,1,Diabetes/Blood sugar
-Estrogen,1,Sex Hormone
-"Estrogen, Progestin",2,Sex Hormone
-Factor Xa Inhibitor,2,Blood Thinner
-Folate Analog Metabolic Inhibitor,1,Cancer/Anti-Inflammatory
-GLP-1 Receptor Agonist,3,Diabetes/Blood sugar
-HMG-CoA Reductase Inhibitor,5,Heart Health
-"Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor, Herpes Zoster Virus Nucleoside Analog DNA Polymerase Inhibitor, Herpesvirus Nucleoside Analog DNA Polymerase Inhibitor",2,STD/Antiviral
-Histamine-1 Receptor Antagonist,3,Allergy
-Histamine-2 Receptor Antagonist,2,Allergy/Stomach Health
-Insulin Analog,5,Diabetes/Blood sugar
-Leukotriene Receptor Antagonist,1,Allergy/Lung Health
-Lincosamide Antibacterial,1,Antibiotic
-Loop Diuretic,1,Heart Health/Kidney Health
-Macrolide Antimicrobial,1,Antibiotic
-Mood Stabilizer,2,Antidepressant/Mental Health
-Muscle Relaxant,2,Muscle Health
-N-methyl-D-aspartate Receptor Antagonist,1,Memory
-Neuraminidase Inhibitor,1,Antiviral
-Nitrate Vasodilator,2,Heart Health
-Nitrofuran Antibacterial,1,Antibiotic
-Non-narcotic Antitussive,1,Antibiotic/Antiviral
-Nonergot Dopamine Agonist,2,Nerve Health
-Nonsteroidal Anti-inflammatory Drug,5,Anti-Inflammatory
-"Nonsteroidal Anti-inflammatory Drug, Platelet Aggregation Inhibitor",1,Anti-Inflammatory
-Omega-3 Fatty Acid,1,Heart Health
-Opioid Agonist,6,Opiods
-P2Y12 Platelet Inhibitor,1,Blood Thinner
-Partial Opioid Agonist,1,Opiods
-Penicillin-class Antibacterial,1,Antibiotic
-"Penicillin-class Antibacterial, beta Lactamase Inhibitor",1,Antibiotic
-Peroxisome Proliferator Receptor alpha Agonist,2,Diabetes/Blood sugar
-"Peroxisome Proliferator Receptor alpha Agonist, Peroxisome Proliferator Receptor gamma Agonist, Thiazolidinedione",1,Diabetes/Blood sugar
-Phosphodiesterase 5 Inhibitor,1,Erectile Disfuntion
-Potassium Salt,1,Electrolyte
-Progesterone,1,Sex Hormone
-Progestin,1,Sex Hormone
-"Progestin, Progestin-containing Intrauterine Device, Estrogen",1,Sex Hormone
-Prostaglandin Analog,2,Eye Health
-Proton Pump Inhibitor,4,Stomach Health
-Provitamin D2 Compound,1,Vitamin/Liver Health
-Quinolone Antimicrobial,1,Antibiotic
-Serotonin Reuptake Inhibitor,6,Antidepressant/Mental Health
-Serotonin and Norepinephrine Reuptake Inhibitor,3,Antidepressant/Mental Health
-Serotonin-1b and Serotonin-1d Receptor Agonist,2,Migraine
-Serotonin-3 Receptor Antagonist,1,Nausea
-Sodium-Glucose Cotransporter 2 Inhibitor,1,Diabetes/Blood sugar
-"Sulfonamide Antimicrobial, Dihydrofolate Reductase Inhibitor Antibacterial",1,Antibiotic
-Sulfonylurea,3,Diabetes/Blood sugar
-Sympathomimetic Amine Anorectic,1,Weight Loss
-Tetracycline-class Drug,1,Antibiotic
-Thiazide Diuretic,1,Heart Health
-"Thiazide Diuretic, Angiotensin Converting Enzyme Inhibitor",1,Heart Health
-"Thiazide Diuretic, Potassium-sparing Diuretic",1,Heart Health/Kidney Health
-Thiazide-like Diuretic,1,heart Health
-Tricyclic Antidepressant,2,Antidepressant/Mental Health
-Vitamin B12,1,Vitamin/Liver Health
-Vitamin K Antagonist,1,Heart Health
-Xanthine Oxidase Inhibitor,1,Lung Health
-alpha-Adrenergic Agonist,1,Heart Health
-alpha-Adrenergic Blocker,2,Heart Health
-"alpha-Adrenergic Blocker, beta-Adrenergic Blocker",1,Heart Health
-beta-Adrenergic Blocker,4,Heart Health
-beta2-Adrenergic Agonist,1,Lung Health
-"beta2-Adrenergic Agonist, Anticholinergic",1,Lung Health
-beta3-Adrenergic Agonist,1,Muscle Health/Bladder/Excretory
-gamma-Aminobutyric Acid-ergic Agonist,2,Sedative
-l-Thyroxine,1,Cancer/Anti-Inflammatory
+Drug Class,Drug Name
+1,0
+5-alpha Reductase Inhibitor,1
+Aldosterone Antagonist,1
+Aluminum Complex,1
+Aminoketone,1
+Aminosalicylate,1
+Androgen,1
+Angiotensin 2 Receptor Blocker,4
+"Angiotensin 2 Receptor Blocker, Thiazide Diuretic",1
+Angiotensin Converting Enzyme Inhibitor,3
+Anti-epileptic Agent,2
+"Anti-epileptic Agent, Mood Stabilizer",2
+Antiarrhythmic,2
+Anticholinergic,2
+Antiemetic,1
+Antihistamine,1
+"Antirheumatic Agent, Antimalarial",1
+Aromatase Inhibitor,1
+Arteriolar Vasodilator,1
+Atypical Antipsychotic,4
+Azole Antifungal,2
+Benzodiazepine,4
+Biguanide,1
+"Biguanide, Dipeptidyl Peptidase 4 Inhibitor",1
+Bisphosphonate,1
+Calcium Channel Blocker,2
+"Carbonic Anhydrase Inhibitor, beta-Adrenergic Blocker",1
+Central Nervous System Stimulant,4
+Central alpha-2 Adrenergic Agonist,2
+Cephalosporin Antibacterial,1
+Cholinergic Muscarinic Antagonist,1
+Cholinesterase Inhibitor,1
+Corticosteroid,7
+"Corticosteroid, beta2-Adrenergic Agonist",3
+Dietary Cholesterol Absorption Inhibitor,1
+Dihydropyridine Calcium Channel Blocker,2
+"Dihydropyridine Calcium Channel Blocker, Angiotensin Converting Enzyme Inhibitor",1
+Dipeptidyl Peptidase 4 Inhibitor,1
+Estrogen,1
+"Estrogen, Progestin",2
+Factor Xa Inhibitor,2
+Folate Analog Metabolic Inhibitor,1
+GLP-1 Receptor Agonist,3
+HMG-CoA Reductase Inhibitor,5
+"Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor, Herpes Zoster Virus Nucleoside Analog DNA Polymerase Inhibitor, Herpesvirus Nucleoside Analog DNA Polymerase Inhibitor",2
+Histamine-1 Receptor Antagonist,3
+Histamine-2 Receptor Antagonist,2
+Insulin Analog,5
+Leukotriene Receptor Antagonist,1
+Lincosamide Antibacterial,1
+Loop Diuretic,1
+Macrolide Antimicrobial,1
+Mood Stabilizer,2
+Muscle Relaxant,2
+N-methyl-D-aspartate Receptor Antagonist,1
+Neuraminidase Inhibitor,1
+Nitrate Vasodilator,2
+Nitrofuran Antibacterial,1
+Non-narcotic Antitussive,1
+Nonergot Dopamine Agonist,2
+Nonsteroidal Anti-inflammatory Drug,5
+"Nonsteroidal Anti-inflammatory Drug, Platelet Aggregation Inhibitor",1
+Omega-3 Fatty Acid,1
+Opioid Agonist,6
+P2Y12 Platelet Inhibitor,1
+Partial Opioid Agonist,1
+Penicillin-class Antibacterial,1
+"Penicillin-class Antibacterial, beta Lactamase Inhibitor",1
+Peroxisome Proliferator Receptor alpha Agonist,2
+"Peroxisome Proliferator Receptor alpha Agonist, Peroxisome Proliferator Receptor gamma Agonist, Thiazolidinedione",1
+Phosphodiesterase 5 Inhibitor,1
+Potassium Salt,1
+Progesterone,1
+Progestin,1
+"Progestin, Progestin-containing Intrauterine Device, Estrogen",1
+Prostaglandin Analog,2
+Proton Pump Inhibitor,4
+Provitamin D2 Compound,1
+Quinolone Antimicrobial,1
+Serotonin Reuptake Inhibitor,6
+Serotonin and Norepinephrine Reuptake Inhibitor,3
+Serotonin-1b and Serotonin-1d Receptor Agonist,2
+Serotonin-3 Receptor Antagonist,1
+Sodium-Glucose Cotransporter 2 Inhibitor,1
+"Sulfonamide Antimicrobial, Dihydrofolate Reductase Inhibitor Antibacterial",1
+Sulfonylurea,3
+Sympathomimetic Amine Anorectic,1
+Tetracycline-class Drug,1
+Thiazide Diuretic,1
+"Thiazide Diuretic, Angiotensin Converting Enzyme Inhibitor",1
+"Thiazide Diuretic, Potassium-sparing Diuretic",1
+Thiazide-like Diuretic,1
+Tricyclic Antidepressant,2
+Vitamin B12,1
+Vitamin K Antagonist,1
+Xanthine Oxidase Inhibitor,1
+alpha-Adrenergic Agonist,1
+alpha-Adrenergic Blocker,2
+"alpha-Adrenergic Blocker, beta-Adrenergic Blocker",1
+beta-Adrenergic Blocker,4
+beta2-Adrenergic Agonist,1
+"beta2-Adrenergic Agonist, Anticholinergic",1
+beta3-Adrenergic Agonist,1
+gamma-Aminobutyric Acid-ergic Agonist,2
+l-Thyroxine,1
