@@ -5,7 +5,7 @@
 * (Ongoing) Testing a linear model to show the relationship of the predictors and its effects on cost.
 
 ## Web Scraping
-Utilized **BeautifulSoup** package in **Python** to scrape 200 entries of medication data, from (https://clincalc.com/DrugStats/Top200Drugs.aspx), to produce the following variables:
+Utilized **BeautifulSoup** (https://www.crummy.com/software/BeautifulSoup/bs4/doc/) package in **Python** to scrape 200 entries of medication data, from (https://clincalc.com/DrugStats/Top200Drugs.aspx), to produce the following variables:
 *	Drug Name
 *	Total Prescriptions
 *	Total Patients
